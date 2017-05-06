@@ -1,8 +1,8 @@
-## Amaç
-Bu depo kişisel kullanım ve YouTube kanalım için açılmıştır.
+## AmaÃ§
+Bu depo kiÅŸisel kullanÄ±m ve YouTube kanalÄ±m iÃ§in aÃ§Ä±lmÄ±ÅŸtÄ±r.
 
 ## YouTube
-Javaca - http://www.youtube.com/channel/UCNCb_oDUtfGQ4dWlQ1zc3CQ
+Javaca - http://www.youtube.com/javaca
 
 ## Sahibi
 Emre BOZKURT - http://noskurt.wordpres.com
